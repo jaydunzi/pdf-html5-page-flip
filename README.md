@@ -16,8 +16,9 @@ Simple viewer for view your pdf file as flipable using html5 technology.
 
 ---
 ### Credits
-* Fork from [https://github.com/iberan/pdfjs-flipbook](https://github.com/iberan/pdfjs-flipbook).  
+* Fork from [https://github.com/iamapinan/pdf-html5-page-flip](https://github.com/iberan/pdfjs-flipbook).  
 * Dependency [https://github.com/blasten/turn.js/](https://github.com/blasten/turn.js/)
 
 ### Developer
 Apinan Woratrakun [iamapinan@gmail.com](mailto:iamapinan@gmail.com)
+Jan Dunzweiler [jan.dunzweiler@gmail.com](mailto:jan.dunzweiler@gmail.com)
